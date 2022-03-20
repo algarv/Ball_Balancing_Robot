@@ -22,8 +22,8 @@ In addition to self-fabricated pieces, the following components were purchased:
 * Rubber Washers (0.190" ID, 1/2" OD)
 
 <p float="left">
-  <img src="img/ballbot_CAD.png" width="500" />
-  <img src="img/hardware3.jpeg" width="500" /> 
+  <img src="img/ballbot_CAD.png" width="250" />
+  <img src="img/hardware3.jpeg" width="250" /> 
 </p>
 
 ### Electronics Assembly
