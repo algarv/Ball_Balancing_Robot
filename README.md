@@ -3,6 +3,7 @@
 For my winter quarter independent study project, set out to build my own version of a BallBot, a dynamically stable / statically unstable robot. I am designed my bot from CAD to control algorithm, utilizing 3D printing, laser cutting, and C programming on an RP2040 microcontroller. 
 
 ![final](img/final.gif)
+
 https://youtu.be/7S1Z_5BLMUo
 
 ### Hardware
